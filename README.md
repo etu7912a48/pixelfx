@@ -194,6 +194,13 @@ bar. `node tools/serve.mjs` runs the gallery locally with your effects in it.
 - **Same frame shape as Sprite Fusion's VFX** (`{ w, h, ox, oy, color, light }`), so both libraries can draw into
   one frame.
 
+## wizard character prototype.
+
+A hooded purple-robed wizard with a head-bound pointed hat, XPBD skirt cloth, and complete idle and spell-cast animations. This is an opt-in character prototype; see [setup, API and limitations](docs/WIZARD.md).
+
+![Wizard idle](assets/wizard/wizard-idle-preview.gif)
+![Wizard cast](assets/wizard/wizard-cast-full-preview.gif)
+
 ## license.
 
 MIT, code and effects. Use them in anything, commercial included. Parts are adapted from Hugo Duprez's MIT effects
